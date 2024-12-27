@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Samyak Srivatsa!
 
-<img src="https://github.com/productofbigbang/productofbigbang/blob/main/sammy.png" width="200" align="right">
 
-**Aspiring Data Scientist | MTech Candidate at IIT Kanpur | AI Innovator**
+**Aspiring Data Scientist | MTech Candidate at IIT Kanpur | ML/AI Developer**
 
 ✉️ samyaksri23@iitk.ac.in    |    [LinkedI](https://www.linkedin.com/in/samyak-srivatsa-6bb7271a1/)    |    [GitHub](https://github.com/productofbigbang)    |    
 
