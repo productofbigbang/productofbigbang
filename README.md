@@ -3,7 +3,7 @@
 
 **Aspiring Data Scientist | MTech Candidate at IIT Kanpur | ML/AI Developer**
 
-✉️ samyaksri23@iitk.ac.in    |    [LinkedI](https://www.linkedin.com/in/samyak-srivatsa-6bb7271a1/)    |    [GitHub](https://github.com/productofbigbang)    |    
+✉️ samyaksri23@iitk.ac.in    |    [LinkedIn](https://www.linkedin.com/in/samyak-srivatsa-6bb7271a1/)    |    [GitHub](https://github.com/productofbigbang)    |    
 
 ---
 
