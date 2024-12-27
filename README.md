@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Samyak Srivatsa!
 
 
-**Aspiring Data Scientist | MTech Candidate at IIT Kanpur | ML/AI Developer**
+**Aspiring Data Scientist | Studies at IIT Kanpur | ML/AI Developer**
 
 ✉️ samyaksri23@iitk.ac.in    |    [LinkedIn](https://www.linkedin.com/in/samyak-srivatsa-6bb7271a1/)     
 
